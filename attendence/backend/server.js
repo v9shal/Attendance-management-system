@@ -13,7 +13,7 @@ app.use(upload.none());
 const db = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "14616144a",
+    password: "",
     database: "attendence" 
 });
 
